@@ -1,0 +1,21 @@
+/* .navbar{
+  margin-right: 0;
+  background-color: #222222;
+  margin-bottom: 0;
+} */
+
+.nav{
+  text-align: center;
+  margin-right: 0;
+}
+
+.icon-wrapper{
+  text-align: center;
+  font-size: 20px;
+  display: inline-block;
+  margin: auto;
+}
+
+.navbar-collapse{
+  margin-right: 0;
+}

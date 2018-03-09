@@ -1,0 +1,37 @@
+.project-item-img{
+  width: 80%;
+  height: auto;
+}
+
+.col{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.project-item-intro-header {
+  text-align: left;
+  margin-top:  0;
+}
+
+/* .project-item-intro-header > a, a:link, a:visited{
+  color: #008cff;
+  font-family: 'Raleway', sans-serif;
+  text-decoration: none;
+} */
+
+/* .project-item-intro-header > a:visited{
+  color: 008cff;
+  font-family: Raleway;
+  text-decoration: none;
+} */
+
+.project-item-intro-wrapper{
+  clear:left;
+}
+
+.project-item-intro{
+  text-align: justify;
+  color: #646464;
+  line-height: 1.3;
+  font-family: 'Barlow', sans-serif;
+}

@@ -1,0 +1,25 @@
+/* .navbar .navbar-default{
+  width:100%;
+  background-color: #222222;
+} */
+
+.nav{
+  text-align: center;
+}
+
+.icon-wrapper{
+  text-align: center;
+  font-size: 25px;
+  display: inline-block;
+  margin: auto;
+}
+
+/* .icons{
+  color: grey;
+  margin: 2px 2px 2px 2px;
+  font-size: 25px;
+}
+
+.first-icon-wrapper {
+  margin-left: 0;
+} */
